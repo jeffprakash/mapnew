@@ -9,18 +9,7 @@ const mapStyles = {
   height: "100%",
 };
 
-//firebase real-time
 
-// const firebaseConfig = {
-//   apiKey: "AIzaSyC-n0tIhPNZ3IqS3ygmKJ9Y80EWHp7yyFM",
-//   authDomain: "ambulance-tracking-fc20c.firebaseapp.com",
-//   projectId: "ambulance-tracking-fc20c",
-//   storageBucket: "ambulance-tracking-fc20c.appspot.com",
-//   messagingSenderId: "95510651477",
-//   appId: "1:95510651477:web:829569f6e488e0950caadc",
-//   measurementId: "G-E9MQ5NXQ2E",
-//   databaseURL: "https://ambulance-tracking-fc20c-default-rtdb.asia-southeast1.firebasedatabase.app/",
-// };
 
 
 const wait = timeout => {
