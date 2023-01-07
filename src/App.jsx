@@ -218,9 +218,9 @@ function App(props) {
         />
         <Marker
           onClick={()=>{
-            setName("Ambulance 3")
-            setDrivername("Mr Shaam")
-            setPhoneNumber("+91-9538762310")
+            setName("Ambulance 4")
+            setDrivername("Mr Anand")
+            setPhoneNumber("+91-9538762356")
           }}
           icon={{
             url: "https://cdn-icons-png.flaticon.com/512/1834/1834905.png",
@@ -231,9 +231,9 @@ function App(props) {
         />
         <Marker
           onClick={()=>{
-            setName("Ambulance 3")
-            setDrivername("Mr Shaam")
-            setPhoneNumber("+91-9538762310")
+            setName("Ambulance 5")
+            setDrivername("Mr Jamal")
+            setPhoneNumber("+91-9538762990")
           }}
           icon={{
             url: "https://cdn-icons-png.flaticon.com/512/1834/1834905.png",
